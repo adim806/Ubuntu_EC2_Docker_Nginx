@@ -8,8 +8,6 @@
 
 | Item | Details |
 |---|---|
-| Difficulty | Beginner |
-| Estimated Time | 45–60 minutes |
 | Technologies | AWS EC2, Ubuntu 24.04, Docker, Nginx, Security Groups |
 
 This lab demonstrates how to launch a cloud virtual machine on AWS, install Docker, and serve a web page using an Nginx container — accessible from any browser via a public IP address.
