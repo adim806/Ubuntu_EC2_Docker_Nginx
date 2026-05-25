@@ -36,6 +36,20 @@ Nginx Container (port 80:80)
 
 ---
 
+## Screenshots
+
+### Nginx Container Running (Terminal)
+<img width="1913" height="952" alt="terminal" src="https://github.com/user-attachments/assets/22213390-00b1-4019-aa5d-a3e1a6ae0904" />
+
+
+### Nginx Welcome Page (Browser)
+<img width="1909" height="779" alt="ngingx_browser" src="https://github.com/user-attachments/assets/f7b365cb-e16c-4cd0-a6e9-7e90223eba61" />
+
+
+---
+
+---
+
 ## Steps Performed
 
 ### 1. Launch EC2 Instance
@@ -121,19 +135,6 @@ sudo docker rm nginx-lab
 Then terminated the EC2 instance from the AWS Console:
 **EC2 → Instances → Instance state → Terminate instance**
 
----
-
-## Screenshots
-
-### Nginx Container Running (Terminal)
-<img width="1913" height="952" alt="terminal" src="https://github.com/user-attachments/assets/22213390-00b1-4019-aa5d-a3e1a6ae0904" />
-
-
-### Nginx Welcome Page (Browser)
-<img width="1909" height="779" alt="ngingx_browser" src="https://github.com/user-attachments/assets/f7b365cb-e16c-4cd0-a6e9-7e90223eba61" />
-
-
----
 
 ## Validation Checklist
 
